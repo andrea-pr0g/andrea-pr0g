@@ -3,6 +3,4 @@ My name is Andrea Lavalle, I'm from Rome and currently studying in ITS Academy L
 
 I'm currently enrolled in the ARTIFICIAL INTELLIGENCE AND DATA SCIENCE SPECIALIST course and studying python and c++
 
-I developed also an interest for cybersecurity and I'm approaching this field with tryhackme.com
-
 In progress...🔨
